@@ -1,0 +1,8 @@
+
+"skeleton"
+{
+	"base" 			"helix"
+	"title" 		"Warhammer 40k: Rogue Trader Roleplay"
+	"author" 		"Zectogonix"
+	"menusystem"	"1"
+}
